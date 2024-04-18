@@ -4,11 +4,18 @@ This is realtime simple chat demo, the user can register and then doing chat eac
 
 ## How to run the application?
 
-This aplication is using docker env, so if you are installed docker in your computer, you need to running this in your terminal
+This aplication is using docker env, so if you are installed docker in your computer, you need to build the docker first, go to project root directory and build the Dockerfile
 
 ```
-test
+docker build .
 ```
+
+after that, running the docker compose
+```
+docker-compose up -d
+```
+
+then you can access http://localhost:9000 in your browser
 
 ## License
 [MIT license](https://opensource.org/licenses/MIT).
