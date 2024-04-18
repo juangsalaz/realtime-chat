@@ -22,6 +22,10 @@ then you can access http://localhost:9000 in your browser
 
 <img src="https://github.com/juangsalaz/realtime-chat/assets/7124362/51f4c4b6-3452-40a2-b568-0226d1dba99d" width="500">
 
+![realtime chat (1)](https://github.com/juangsalaz/realtime-chat/assets/7124362/60b57083-ca0d-4374-ac39-8baa0a8c188d)
+
+<img src="https://github.com/juangsalaz/realtime-chat/assets/7124362/60b57083-ca0d-4374-ac39-8baa0a8c188d" width="500">
+
 ## License
 [MIT license](https://opensource.org/licenses/MIT).
 
