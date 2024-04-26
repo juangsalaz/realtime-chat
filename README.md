@@ -20,8 +20,6 @@ then you can access http://localhost:9000 in your browser
 ## Demo realtime chat
 ![realtime chat](https://github.com/juangsalaz/realtime-chat/blob/main/demo.gif)
 
-<img src="https://github.com/juangsalaz/realtime-chat/blob/main/demo.gif">
-
 ## License
 [MIT license](https://opensource.org/licenses/MIT).
 
